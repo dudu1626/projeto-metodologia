@@ -1,0 +1,260 @@
+Iniciando treinamento...
+______________________________________________________________________________________________________
+Treinando modelo 1/10
+Época 1, Perda Treino: 0.4482, Acurácia Treino: 0.8402
+Época 1, Perda Validação: 0.2966, Acurácia Validação: 0.8949
+Parada antecipada: Acurácia de validação (0.8949) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 1: Média Perda Treino: 0.4482, Média Acurácia Treino: 0.8402, Média Perda Validação: 0.2966, Média Acurácia Validação: 0.8949
+Tempo médio de treino: 92.575734
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0002444651627938769 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 2/10
+Época 1, Perda Treino: 0.4419, Acurácia Treino: 0.8405
+Época 1, Perda Validação: 0.3109, Acurácia Validação: 0.8857
+Época 2, Perda Treino: 0.3033, Acurácia Treino: 0.8926
+Época 2, Perda Validação: 0.2839, Acurácia Validação: 0.9010
+Parada antecipada: Acurácia de validação (0.9010) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 2
+Modelo 2: Média Perda Treino: 0.3757, Média Acurácia Treino: 0.8664, Média Perda Validação: 0.2902, Média Acurácia Validação: 0.8980
+Tempo médio de treino: 138.412613
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 39.4275 W
+Emissões médias: 0.0003644663642915534 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 3/10
+Época 1, Perda Treino: 0.4500, Acurácia Treino: 0.8365
+Época 1, Perda Validação: 0.3127, Acurácia Validação: 0.8876
+Época 2, Perda Treino: 0.3046, Acurácia Treino: 0.8906
+Época 2, Perda Validação: 0.2709, Acurácia Validação: 0.9032
+Parada antecipada: Acurácia de validação (0.9032) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 2
+Modelo 3: Média Perda Treino: 0.3520, Média Acurácia Treino: 0.8745, Média Perda Validação: 0.2838, Média Acurácia Validação: 0.8997
+Tempo médio de treino: 153.70179733333333
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 52.55633333333333 W
+Emissões médias: 0.00040475486565149456 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 4/10
+Época 1, Perda Treino: 0.4466, Acurácia Treino: 0.8396
+Época 1, Perda Validação: 0.3157, Acurácia Validação: 0.8909
+Parada antecipada: Acurácia de validação (0.8909) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 4: Média Perda Treino: 0.3756, Média Acurácia Treino: 0.8658, Média Perda Validação: 0.2918, Média Acurácia Validação: 0.8975
+Tempo médio de treino: 138.43043575
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 39.417249999999996 W
+Emissões médias: 0.00036450032969612297 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 5/10
+Época 1, Perda Treino: 0.4530, Acurácia Treino: 0.8372
+Época 1, Perda Validação: 0.3023, Acurácia Validação: 0.8914
+Parada antecipada: Acurácia de validação (0.8914) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 5: Média Perda Treino: 0.3911, Média Acurácia Treino: 0.8600, Média Perda Validação: 0.2939, Média Acurácia Validação: 0.8963
+Tempo médio de treino: 129.2676422
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 31.533799999999996 W
+Emissões médias: 0.00034063120278474514 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 6/10
+Época 1, Perda Treino: 0.4479, Acurácia Treino: 0.8362
+Época 1, Perda Validação: 0.3386, Acurácia Validação: 0.8752
+Época 2, Perda Treino: 0.3027, Acurácia Treino: 0.8930
+Época 2, Perda Validação: 0.2610, Acurácia Validação: 0.9029
+Parada antecipada: Acurácia de validação (0.9029) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 2
+Modelo 6: Média Perda Treino: 0.3764, Média Acurácia Treino: 0.8655, Média Perda Validação: 0.2884, Média Acurácia Validação: 0.8974
+Tempo médio de treino: 138.422508
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 39.43416666666666 W
+Emissões médias: 0.00036481194795004836 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 7/10
+Época 1, Perda Treino: 0.4548, Acurácia Treino: 0.8351
+Época 1, Perda Validação: 0.3083, Acurácia Validação: 0.8833
+Época 2, Perda Treino: 0.3083, Acurácia Treino: 0.8895
+Época 2, Perda Validação: 0.2648, Acurácia Validação: 0.9047
+Parada antecipada: Acurácia de validação (0.9047) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 2
+Modelo 7: Média Perda Treino: 0.3666, Média Acurácia Treino: 0.8690, Média Perda Validação: 0.2850, Média Acurácia Validação: 0.8984
+Tempo médio de treino: 144.9547125714286
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 45.077285714285715 W
+Emissões médias: 0.0003818787420107219 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 8/10
+Época 1, Perda Treino: 0.4426, Acurácia Treino: 0.8408
+Época 1, Perda Validação: 0.3067, Acurácia Validação: 0.8904
+Parada antecipada: Acurácia de validação (0.8904) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 8: Média Perda Treino: 0.3761, Média Acurácia Treino: 0.8654, Média Perda Validação: 0.2877, Média Acurácia Validação: 0.8974
+Tempo médio de treino: 138.41191725000002
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 39.442625 W
+Emissões médias: 0.00036464891010594565 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 9/10
+Época 1, Perda Treino: 0.4511, Acurácia Treino: 0.8381
+Época 1, Perda Validação: 0.2993, Acurácia Validação: 0.8917
+Parada antecipada: Acurácia de validação (0.8917) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 9: Média Perda Treino: 0.3845, Média Acurácia Treino: 0.8624, Média Perda Validação: 0.2890, Média Acurácia Validação: 0.8968
+Tempo médio de treino: 133.32605866666668
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 35.06011111111111 W
+Emissões médias: 0.00035126387053427367 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 10/10
+Época 1, Perda Treino: 0.4432, Acurácia Treino: 0.8405
+Época 1, Perda Validação: 0.2926, Acurácia Validação: 0.8914
+Parada antecipada: Acurácia de validação (0.8914) atingiu ou excedeu a acurácia alvo da ResNet (0.8900) na época 1
+Modelo 10: Média Perda Treino: 0.3903, Média Acurácia Treino: 0.8602, Média Perda Validação: 0.2894, Média Acurácia Validação: 0.8963
+Tempo médio de treino: 129.25082540000002
+FLOPs: 939116032.0
+Parâmetros: 21280970.0
+Consumo médio de energia: 31.5541 W
+Emissões médias: 0.00034048054111104946 kg CO₂
+************************************************************************************************
+O melhor modelo é o Modelo_3 com a maior média de acurácia de validação: 0.8997
+************************************************************************************************
+Tempo Médio de Treino: 129.25082540000002 segundos
+Consumo Médio de Energia: nan W
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1           [-1, 64, 28, 28]             576
+       BatchNorm2d-2           [-1, 64, 28, 28]             128
+              ReLU-3           [-1, 64, 28, 28]               0
+            Conv2d-4           [-1, 64, 28, 28]          36,864
+       BatchNorm2d-5           [-1, 64, 28, 28]             128
+              ReLU-6           [-1, 64, 28, 28]               0
+            Conv2d-7           [-1, 64, 28, 28]          36,864
+       BatchNorm2d-8           [-1, 64, 28, 28]             128
+              ReLU-9           [-1, 64, 28, 28]               0
+       BasicBlock-10           [-1, 64, 28, 28]               0
+           Conv2d-11           [-1, 64, 28, 28]          36,864
+      BatchNorm2d-12           [-1, 64, 28, 28]             128
+             ReLU-13           [-1, 64, 28, 28]               0
+           Conv2d-14           [-1, 64, 28, 28]          36,864
+      BatchNorm2d-15           [-1, 64, 28, 28]             128
+             ReLU-16           [-1, 64, 28, 28]               0
+       BasicBlock-17           [-1, 64, 28, 28]               0
+           Conv2d-18           [-1, 64, 28, 28]          36,864
+      BatchNorm2d-19           [-1, 64, 28, 28]             128
+             ReLU-20           [-1, 64, 28, 28]               0
+           Conv2d-21           [-1, 64, 28, 28]          36,864
+      BatchNorm2d-22           [-1, 64, 28, 28]             128
+             ReLU-23           [-1, 64, 28, 28]               0
+       BasicBlock-24           [-1, 64, 28, 28]               0
+           Conv2d-25          [-1, 128, 14, 14]          73,728
+      BatchNorm2d-26          [-1, 128, 14, 14]             256
+             ReLU-27          [-1, 128, 14, 14]               0
+           Conv2d-28          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-29          [-1, 128, 14, 14]             256
+           Conv2d-30          [-1, 128, 14, 14]           8,192
+      BatchNorm2d-31          [-1, 128, 14, 14]             256
+             ReLU-32          [-1, 128, 14, 14]               0
+       BasicBlock-33          [-1, 128, 14, 14]               0
+           Conv2d-34          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-35          [-1, 128, 14, 14]             256
+             ReLU-36          [-1, 128, 14, 14]               0
+           Conv2d-37          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-38          [-1, 128, 14, 14]             256
+             ReLU-39          [-1, 128, 14, 14]               0
+       BasicBlock-40          [-1, 128, 14, 14]               0
+           Conv2d-41          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-42          [-1, 128, 14, 14]             256
+             ReLU-43          [-1, 128, 14, 14]               0
+           Conv2d-44          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-45          [-1, 128, 14, 14]             256
+             ReLU-46          [-1, 128, 14, 14]               0
+       BasicBlock-47          [-1, 128, 14, 14]               0
+           Conv2d-48          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-49          [-1, 128, 14, 14]             256
+             ReLU-50          [-1, 128, 14, 14]               0
+           Conv2d-51          [-1, 128, 14, 14]         147,456
+      BatchNorm2d-52          [-1, 128, 14, 14]             256
+             ReLU-53          [-1, 128, 14, 14]               0
+       BasicBlock-54          [-1, 128, 14, 14]               0
+           Conv2d-55            [-1, 256, 7, 7]         294,912
+      BatchNorm2d-56            [-1, 256, 7, 7]             512
+             ReLU-57            [-1, 256, 7, 7]               0
+           Conv2d-58            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-59            [-1, 256, 7, 7]             512
+           Conv2d-60            [-1, 256, 7, 7]          32,768
+      BatchNorm2d-61            [-1, 256, 7, 7]             512
+             ReLU-62            [-1, 256, 7, 7]               0
+       BasicBlock-63            [-1, 256, 7, 7]               0
+           Conv2d-64            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-65            [-1, 256, 7, 7]             512
+             ReLU-66            [-1, 256, 7, 7]               0
+           Conv2d-67            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-68            [-1, 256, 7, 7]             512
+             ReLU-69            [-1, 256, 7, 7]               0
+       BasicBlock-70            [-1, 256, 7, 7]               0
+           Conv2d-71            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-72            [-1, 256, 7, 7]             512
+             ReLU-73            [-1, 256, 7, 7]               0
+           Conv2d-74            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-75            [-1, 256, 7, 7]             512
+             ReLU-76            [-1, 256, 7, 7]               0
+       BasicBlock-77            [-1, 256, 7, 7]               0
+           Conv2d-78            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-79            [-1, 256, 7, 7]             512
+             ReLU-80            [-1, 256, 7, 7]               0
+           Conv2d-81            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-82            [-1, 256, 7, 7]             512
+             ReLU-83            [-1, 256, 7, 7]               0
+       BasicBlock-84            [-1, 256, 7, 7]               0
+           Conv2d-85            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-86            [-1, 256, 7, 7]             512
+             ReLU-87            [-1, 256, 7, 7]               0
+           Conv2d-88            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-89            [-1, 256, 7, 7]             512
+             ReLU-90            [-1, 256, 7, 7]               0
+       BasicBlock-91            [-1, 256, 7, 7]               0
+           Conv2d-92            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-93            [-1, 256, 7, 7]             512
+             ReLU-94            [-1, 256, 7, 7]               0
+           Conv2d-95            [-1, 256, 7, 7]         589,824
+      BatchNorm2d-96            [-1, 256, 7, 7]             512
+             ReLU-97            [-1, 256, 7, 7]               0
+       BasicBlock-98            [-1, 256, 7, 7]               0
+           Conv2d-99            [-1, 512, 4, 4]       1,179,648
+     BatchNorm2d-100            [-1, 512, 4, 4]           1,024
+            ReLU-101            [-1, 512, 4, 4]               0
+          Conv2d-102            [-1, 512, 4, 4]       2,359,296
+     BatchNorm2d-103            [-1, 512, 4, 4]           1,024
+          Conv2d-104            [-1, 512, 4, 4]         131,072
+     BatchNorm2d-105            [-1, 512, 4, 4]           1,024
+            ReLU-106            [-1, 512, 4, 4]               0
+      BasicBlock-107            [-1, 512, 4, 4]               0
+          Conv2d-108            [-1, 512, 4, 4]       2,359,296
+     BatchNorm2d-109            [-1, 512, 4, 4]           1,024
+            ReLU-110            [-1, 512, 4, 4]               0
+          Conv2d-111            [-1, 512, 4, 4]       2,359,296
+     BatchNorm2d-112            [-1, 512, 4, 4]           1,024
+            ReLU-113            [-1, 512, 4, 4]               0
+      BasicBlock-114            [-1, 512, 4, 4]               0
+          Conv2d-115            [-1, 512, 4, 4]       2,359,296
+     BatchNorm2d-116            [-1, 512, 4, 4]           1,024
+            ReLU-117            [-1, 512, 4, 4]               0
+          Conv2d-118            [-1, 512, 4, 4]       2,359,296
+     BatchNorm2d-119            [-1, 512, 4, 4]           1,024
+            ReLU-120            [-1, 512, 4, 4]               0
+      BasicBlock-121            [-1, 512, 4, 4]               0
+AdaptiveAvgPool2d-122            [-1, 512, 1, 1]               0
+          Linear-123                   [-1, 10]           5,130
+================================================================
+Total params: 21,280,970
+Trainable params: 21,280,970
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 20.58
+Params size (MB): 81.18
+Estimated Total Size (MB): 101.77
+----------------------------------------------------------------

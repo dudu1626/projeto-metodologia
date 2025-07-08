@@ -1,0 +1,245 @@
+Iniciando treinamento...
+______________________________________________________________________________________________________
+Treinando modelo 1/10
+Época 1, Perda Treino: 1.6194, Acurácia Treino: 0.3933
+Época 1, Perda Validação: 1.3367, Acurácia Validação: 0.5032
+Época 2, Perda Treino: 1.1551, Acurácia Treino: 0.5817
+Época 2, Perda Validação: 1.0363, Acurácia Validação: 0.6305
+Época 3, Perda Treino: 0.9445, Acurácia Treino: 0.6640
+Época 3, Perda Validação: 0.8831, Acurácia Validação: 0.6912
+Época 4, Perda Treino: 0.7952, Acurácia Treino: 0.7168
+Época 4, Perda Validação: 0.7906, Acurácia Validação: 0.7255
+Época 5, Perda Treino: 0.6890, Acurácia Treino: 0.7582
+Época 5, Perda Validação: 0.7265, Acurácia Validação: 0.7508
+Parada antecipada: Acurácia de validação (0.7508) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 5
+Modelo 1: Média Perda Treino: 0.6890, Média Acurácia Treino: 0.7582, Média Perda Validação: 0.7265, Média Acurácia Validação: 0.7508
+Tempo médio de treino: 204.533237
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 310.855 W
+Emissões médias: 0.0005149473729139885 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 2/10
+Época 1, Perda Treino: 1.6174, Acurácia Treino: 0.3959
+Época 1, Perda Validação: 1.3314, Acurácia Validação: 0.5030
+Época 2, Perda Treino: 1.1818, Acurácia Treino: 0.5712
+Época 2, Perda Validação: 1.0591, Acurácia Validação: 0.6215
+Época 3, Perda Treino: 0.9718, Acurácia Treino: 0.6522
+Época 3, Perda Validação: 0.8973, Acurácia Validação: 0.6799
+Época 4, Perda Treino: 0.8243, Acurácia Treino: 0.7076
+Época 4, Perda Validação: 0.8605, Acurácia Validação: 0.6998
+Época 5, Perda Treino: 0.7090, Acurácia Treino: 0.7499
+Época 5, Perda Validação: 0.7685, Acurácia Validação: 0.7300
+Época 6, Perda Treino: 0.6157, Acurácia Treino: 0.7829
+Época 6, Perda Validação: 0.6997, Acurácia Validação: 0.7519
+Parada antecipada: Acurácia de validação (0.7519) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 2: Média Perda Treino: 0.6523, Média Acurácia Treino: 0.7706, Média Perda Validação: 0.7131, Média Acurácia Validação: 0.7513
+Tempo médio de treino: 224.8346595
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 350.942 W
+Emissões médias: 0.0005657914574268853 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 3/10
+Época 1, Perda Treino: 1.6270, Acurácia Treino: 0.3922
+Época 1, Perda Validação: 1.3200, Acurácia Validação: 0.5162
+Época 2, Perda Treino: 1.1841, Acurácia Treino: 0.5676
+Época 2, Perda Validação: 1.0918, Acurácia Validação: 0.6001
+Época 3, Perda Treino: 0.9732, Acurácia Treino: 0.6518
+Época 3, Perda Validação: 0.9404, Acurácia Validação: 0.6621
+Época 4, Perda Treino: 0.8259, Acurácia Treino: 0.7099
+Época 4, Perda Validação: 0.8534, Acurácia Validação: 0.7031
+Época 5, Perda Treino: 0.7035, Acurácia Treino: 0.7527
+Época 5, Perda Validação: 0.7699, Acurácia Validação: 0.7335
+Época 6, Perda Treino: 0.6091, Acurácia Treino: 0.7870
+Época 6, Perda Validação: 0.7216, Acurácia Validação: 0.7477
+Época 7, Perda Treino: 0.5305, Acurácia Treino: 0.8143
+Época 7, Perda Validação: 0.6663, Acurácia Validação: 0.7733
+Parada antecipada: Acurácia de validação (0.7733) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 7
+Modelo 3: Média Perda Treino: 0.6117, Média Acurácia Treino: 0.7852, Média Perda Validação: 0.6975, Média Acurácia Validação: 0.7587
+Tempo médio de treino: 245.21781499999997
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 387.932 W
+Emissões médias: 0.0006169087560613065 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 4/10
+Época 1, Perda Treino: 1.5841, Acurácia Treino: 0.4072
+Época 1, Perda Validação: 1.3227, Acurácia Validação: 0.5202
+Época 2, Perda Treino: 1.1676, Acurácia Treino: 0.5749
+Época 2, Perda Validação: 1.0518, Acurácia Validação: 0.6255
+Época 3, Perda Treino: 0.9593, Acurácia Treino: 0.6549
+Época 3, Perda Validação: 0.9104, Acurácia Validação: 0.6780
+Época 4, Perda Treino: 0.8038, Acurácia Treino: 0.7150
+Época 4, Perda Validação: 0.8229, Acurácia Validação: 0.7123
+Época 5, Perda Treino: 0.6879, Acurácia Treino: 0.7570
+Época 5, Perda Validação: 0.7198, Acurácia Validação: 0.7472
+Época 6, Perda Treino: 0.6021, Acurácia Treino: 0.7899
+Época 6, Perda Validação: 0.6649, Acurácia Validação: 0.7677
+Parada antecipada: Acurácia de validação (0.7677) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 4: Média Perda Treino: 0.6093, Média Acurácia Treino: 0.7863, Média Perda Validação: 0.6893, Média Acurácia Validação: 0.7609
+Tempo médio de treino: 245.2189005
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 388.49775 W
+Emissões médias: 0.0006174257195001956 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 5/10
+Época 1, Perda Treino: 1.6188, Acurácia Treino: 0.3918
+Época 1, Perda Validação: 1.3091, Acurácia Validação: 0.5128
+Época 2, Perda Treino: 1.1837, Acurácia Treino: 0.5683
+Época 2, Perda Validação: 1.0921, Acurácia Validação: 0.6082
+Época 3, Perda Treino: 0.9814, Acurácia Treino: 0.6506
+Época 3, Perda Validação: 0.9476, Acurácia Validação: 0.6658
+Época 4, Perda Treino: 0.8259, Acurácia Treino: 0.7062
+Época 4, Perda Validação: 0.8237, Acurácia Validação: 0.7103
+Época 5, Perda Treino: 0.7055, Acurácia Treino: 0.7514
+Época 5, Perda Validação: 0.7272, Acurácia Validação: 0.7452
+Época 6, Perda Treino: 0.6118, Acurácia Treino: 0.7835
+Época 6, Perda Validação: 0.6769, Acurácia Validação: 0.7624
+Parada antecipada: Acurácia de validação (0.7624) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 5: Média Perda Treino: 0.6098, Média Acurácia Treino: 0.7858, Média Perda Validação: 0.6869, Média Acurácia Validação: 0.7612
+Tempo médio de treino: 245.2348226
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 389.4264 W
+Emissões médias: 0.0006175732390181805 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 6/10
+Época 1, Perda Treino: 1.6121, Acurácia Treino: 0.3933
+Época 1, Perda Validação: 1.3452, Acurácia Validação: 0.5164
+Época 2, Perda Treino: 1.1714, Acurácia Treino: 0.5738
+Época 2, Perda Validação: 1.0840, Acurácia Validação: 0.6089
+Época 3, Perda Treino: 0.9539, Acurácia Treino: 0.6615
+Época 3, Perda Validação: 0.9054, Acurácia Validação: 0.6856
+Época 4, Perda Treino: 0.8046, Acurácia Treino: 0.7147
+Época 4, Perda Validação: 0.7813, Acurácia Validação: 0.7265
+Época 5, Perda Treino: 0.7014, Acurácia Treino: 0.7527
+Época 5, Perda Validação: 0.7230, Acurácia Validação: 0.7503
+Parada antecipada: Acurácia de validação (0.7503) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 5
+Modelo 6: Média Perda Treino: 0.6251, Média Acurácia Treino: 0.7803, Média Perda Validação: 0.6929, Média Acurácia Validação: 0.7594
+Tempo médio de treino: 238.38157983333335
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 375.63616666666667 W
+Emissões médias: 0.0006003020006358978 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 7/10
+Época 1, Perda Treino: 1.6066, Acurácia Treino: 0.3934
+Época 1, Perda Validação: 1.3029, Acurácia Validação: 0.5173
+Época 2, Perda Treino: 1.1788, Acurácia Treino: 0.5714
+Época 2, Perda Validação: 1.0890, Acurácia Validação: 0.6142
+Época 3, Perda Treino: 0.9669, Acurácia Treino: 0.6538
+Época 3, Perda Validação: 0.9181, Acurácia Validação: 0.6769
+Época 4, Perda Treino: 0.8086, Acurácia Treino: 0.7140
+Época 4, Perda Validação: 0.9000, Acurácia Validação: 0.6839
+Época 5, Perda Treino: 0.6983, Acurácia Treino: 0.7538
+Época 5, Perda Validação: 0.7266, Acurácia Validação: 0.7496
+Época 6, Perda Treino: 0.6074, Acurácia Treino: 0.7874
+Época 6, Perda Validação: 0.6882, Acurácia Validação: 0.7599
+Parada antecipada: Acurácia de validação (0.7599) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 7: Média Perda Treino: 0.6226, Média Acurácia Treino: 0.7813, Média Perda Validação: 0.6922, Média Acurácia Validação: 0.7595
+Tempo médio de treino: 239.31786857142856
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 377.30400000000003 W
+Emissões médias: 0.0006028362697485109 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 8/10
+Época 1, Perda Treino: 1.6136, Acurácia Treino: 0.3976
+Época 1, Perda Validação: 1.3020, Acurácia Validação: 0.5185
+Época 2, Perda Treino: 1.1670, Acurácia Treino: 0.5760
+Época 2, Perda Validação: 1.0543, Acurácia Validação: 0.6258
+Época 3, Perda Treino: 0.9479, Acurácia Treino: 0.6597
+Época 3, Perda Validação: 0.8924, Acurácia Validação: 0.6831
+Época 4, Perda Treino: 0.7935, Acurácia Treino: 0.7188
+Época 4, Perda Validação: 0.7924, Acurácia Validação: 0.7204
+Época 5, Perda Treino: 0.6767, Acurácia Treino: 0.7619
+Época 5, Perda Validação: 0.7017, Acurácia Validação: 0.7568
+Parada antecipada: Acurácia de validação (0.7568) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 5
+Modelo 8: Média Perda Treino: 0.6293, Média Acurácia Treino: 0.7789, Média Perda Validação: 0.6934, Média Acurácia Validação: 0.7591
+Tempo médio de treino: 234.937457
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 368.55825000000004 W
+Emissões médias: 0.0005919353658505326 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 9/10
+Época 1, Perda Treino: 1.6086, Acurácia Treino: 0.4008
+Época 1, Perda Validação: 1.3297, Acurácia Validação: 0.5171
+Época 2, Perda Treino: 1.1637, Acurácia Treino: 0.5797
+Época 2, Perda Validação: 1.0873, Acurácia Validação: 0.6051
+Época 3, Perda Treino: 0.9459, Acurácia Treino: 0.6639
+Época 3, Perda Validação: 0.8868, Acurácia Validação: 0.6868
+Época 4, Perda Treino: 0.7948, Acurácia Treino: 0.7208
+Época 4, Perda Validação: 0.8830, Acurácia Validação: 0.6945
+Época 5, Perda Treino: 0.6868, Acurácia Treino: 0.7591
+Época 5, Perda Validação: 0.7545, Acurácia Validação: 0.7396
+Época 6, Perda Treino: 0.5940, Acurácia Treino: 0.7928
+Época 6, Perda Validação: 0.7015, Acurácia Validação: 0.7597
+Parada antecipada: Acurácia de validação (0.7597) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 9: Média Perda Treino: 0.6254, Média Acurácia Treino: 0.7804, Média Perda Validação: 0.6943, Média Acurácia Validação: 0.7592
+Tempo médio de treino: 236.07926366666666
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 370.7196666666667 W
+Emissões médias: 0.0005948947641812006 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 10/10
+Época 1, Perda Treino: 1.6072, Acurácia Treino: 0.4003
+Época 1, Perda Validação: 1.3522, Acurácia Validação: 0.4993
+Época 2, Perda Treino: 1.1855, Acurácia Treino: 0.5686
+Época 2, Perda Validação: 1.0964, Acurácia Validação: 0.6060
+Época 3, Perda Treino: 0.9672, Acurácia Treino: 0.6544
+Época 3, Perda Validação: 0.9718, Acurácia Validação: 0.6480
+Época 4, Perda Treino: 0.8189, Acurácia Treino: 0.7102
+Época 4, Perda Validação: 0.8013, Acurácia Validação: 0.7201
+Época 5, Perda Treino: 0.7041, Acurácia Treino: 0.7518
+Época 5, Perda Validação: 0.7423, Acurácia Validação: 0.7416
+Época 6, Perda Treino: 0.6115, Acurácia Treino: 0.7858
+Época 6, Perda Validação: 0.6971, Acurácia Validação: 0.7616
+Parada antecipada: Acurácia de validação (0.7616) atingiu ou excedeu a acurácia alvo da LeNet (0.7500) na época 6
+Modelo 10: Média Perda Treino: 0.6240, Média Acurácia Treino: 0.7810, Média Perda Validação: 0.6946, Média Acurácia Validação: 0.7594
+Tempo médio de treino: 236.9671537
+FLOPs: 200515584.0
+Parâmetros: 35855178.0
+Consumo médio de energia: 372.576 W
+Emissões médias: 0.0005971370189692333 kg CO₂
+************************************************************************************************
+O melhor modelo é o Modelo_5 com a maior média de acurácia de validação: 0.7612
+************************************************************************************************
+Tempo Médio de Treino: 236.9671537 segundos
+Consumo Médio de Energia: nan W
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1           [-1, 64, 32, 32]           1,792
+              ReLU-2           [-1, 64, 32, 32]               0
+         MaxPool2d-3           [-1, 64, 16, 16]               0
+            Conv2d-4          [-1, 192, 16, 16]         110,784
+              ReLU-5          [-1, 192, 16, 16]               0
+         MaxPool2d-6            [-1, 192, 8, 8]               0
+            Conv2d-7            [-1, 384, 8, 8]         663,936
+              ReLU-8            [-1, 384, 8, 8]               0
+            Conv2d-9            [-1, 256, 8, 8]         884,992
+             ReLU-10            [-1, 256, 8, 8]               0
+           Conv2d-11            [-1, 256, 8, 8]         590,080
+             ReLU-12            [-1, 256, 8, 8]               0
+        MaxPool2d-13            [-1, 256, 4, 4]               0
+           Linear-14                 [-1, 4096]      16,781,312
+             ReLU-15                 [-1, 4096]               0
+          Dropout-16                 [-1, 4096]               0
+           Linear-17                 [-1, 4096]      16,781,312
+             ReLU-18                 [-1, 4096]               0
+          Dropout-19                 [-1, 4096]               0
+           Linear-20                   [-1, 10]          40,970
+================================================================
+Total params: 35,855,178
+Trainable params: 35,855,178
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.01
+Forward/backward pass size (MB): 3.06
+Params size (MB): 136.78
+Estimated Total Size (MB): 139.85
+----------------------------------------------------------------
