@@ -1,0 +1,149 @@
+Iniciando treinamento...
+______________________________________________________________________________________________________
+Treinando modelo 1/10
+Época 1, Perda Treino: 1.0198, Acurácia Treino: 0.6284
+Época 1, Perda Validação: 0.6317, Acurácia Validação: 0.7624
+Parada antecipada: Acurácia de validação (0.7624) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 1: Média Perda Treino: 1.0198, Média Acurácia Treino: 0.6284, Média Perda Validação: 0.6317, Média Acurácia Validação: 0.7624
+Tempo médio de treino: 39.033122
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013520282784956948 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 2/10
+Época 1, Perda Treino: 1.0110, Acurácia Treino: 0.6363
+Época 1, Perda Validação: 0.6383, Acurácia Validação: 0.7632
+Parada antecipada: Acurácia de validação (0.7632) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 2: Média Perda Treino: 1.0154, Média Acurácia Treino: 0.6323, Média Perda Validação: 0.6350, Média Acurácia Validação: 0.7628
+Tempo médio de treino: 39.020572
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0001359108261065206 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 3/10
+Época 1, Perda Treino: 1.0333, Acurácia Treino: 0.6257
+Época 1, Perda Validação: 0.6332, Acurácia Validação: 0.7602
+Parada antecipada: Acurácia de validação (0.7602) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 3: Média Perda Treino: 1.0214, Média Acurácia Treino: 0.6301, Média Perda Validação: 0.6344, Média Acurácia Validação: 0.7619
+Tempo médio de treino: 39.01073366666667
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0001359292479736654 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 4/10
+Época 1, Perda Treino: 1.0461, Acurácia Treino: 0.6202
+Época 1, Perda Validação: 0.6623, Acurácia Validação: 0.7548
+Parada antecipada: Acurácia de validação (0.7548) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 4: Média Perda Treino: 1.0275, Média Acurácia Treino: 0.6276, Média Perda Validação: 0.6414, Média Acurácia Validação: 0.7601
+Tempo médio de treino: 39.00985675
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013624248322526586 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 5/10
+Época 1, Perda Treino: 1.0368, Acurácia Treino: 0.6287
+Época 1, Perda Validação: 0.6488, Acurácia Validação: 0.7542
+Parada antecipada: Acurácia de validação (0.7542) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 5: Média Perda Treino: 1.0294, Média Acurácia Treino: 0.6279, Média Perda Validação: 0.6428, Média Acurácia Validação: 0.7590
+Tempo médio de treino: 39.0076682
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013639526006363261 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 6/10
+Época 1, Perda Treino: 1.0545, Acurácia Treino: 0.6174
+Época 1, Perda Validação: 0.6401, Acurácia Validação: 0.7585
+Parada antecipada: Acurácia de validação (0.7585) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 6: Média Perda Treino: 1.0336, Média Acurácia Treino: 0.6261, Média Perda Validação: 0.6424, Média Acurácia Validação: 0.7589
+Tempo médio de treino: 39.001179666666665
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013628292846763195 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 7/10
+Época 1, Perda Treino: 1.0287, Acurácia Treino: 0.6284
+Época 1, Perda Validação: 0.6483, Acurácia Validação: 0.7605
+Parada antecipada: Acurácia de validação (0.7605) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 7: Média Perda Treino: 1.0329, Média Acurácia Treino: 0.6264, Média Perda Validação: 0.6432, Média Acurácia Validação: 0.7591
+Tempo médio de treino: 39.00026442857143
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013640015836144484 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 8/10
+Época 1, Perda Treino: 1.0295, Acurácia Treino: 0.6284
+Época 1, Perda Validação: 0.6447, Acurácia Validação: 0.7512
+Parada antecipada: Acurácia de validação (0.7512) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 8: Média Perda Treino: 1.0325, Média Acurácia Treino: 0.6267, Média Perda Validação: 0.6434, Média Acurácia Validação: 0.7581
+Tempo médio de treino: 39.007019125
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0001364500683451007 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 9/10
+Época 1, Perda Treino: 1.0118, Acurácia Treino: 0.6377
+Época 1, Perda Validação: 0.6238, Acurácia Validação: 0.7655
+Parada antecipada: Acurácia de validação (0.7655) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 9: Média Perda Treino: 1.0302, Média Acurácia Treino: 0.6279, Média Perda Validação: 0.6412, Média Acurácia Validação: 0.7590
+Tempo médio de treino: 39.00785666666667
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013642090113115074 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 10/10
+Época 1, Perda Treino: 1.0080, Acurácia Treino: 0.6385
+Época 1, Perda Validação: 0.6433, Acurácia Validação: 0.7444
+Parada antecipada: Acurácia de validação (0.7444) atingiu ou excedeu a acurácia alvo da AlexNet (0.7000) na época 1
+Modelo 10: Média Perda Treino: 1.0280, Média Acurácia Treino: 0.6290, Média Perda Validação: 0.6414, Média Acurácia Validação: 0.7575
+Tempo médio de treino: 39.0068039
+FLOPs: 153150464.0
+Parâmetros: 28513994.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00013654405797256848 kg CO₂
+************************************************************************************************
+O melhor modelo é o Modelo_2 com a maior média de acurácia de validação: 0.7628
+************************************************************************************************
+Tempo Médio de Treino: 39.0068039 segundos
+Consumo Médio de Energia: nan W
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1           [-1, 64, 28, 28]             640
+              ReLU-2           [-1, 64, 28, 28]               0
+         MaxPool2d-3           [-1, 64, 14, 14]               0
+            Conv2d-4          [-1, 192, 14, 14]         110,784
+              ReLU-5          [-1, 192, 14, 14]               0
+         MaxPool2d-6            [-1, 192, 7, 7]               0
+            Conv2d-7            [-1, 384, 7, 7]         663,936
+              ReLU-8            [-1, 384, 7, 7]               0
+            Conv2d-9            [-1, 256, 7, 7]         884,992
+             ReLU-10            [-1, 256, 7, 7]               0
+           Conv2d-11            [-1, 256, 7, 7]         590,080
+             ReLU-12            [-1, 256, 7, 7]               0
+        MaxPool2d-13            [-1, 256, 3, 3]               0
+           Linear-14                 [-1, 4096]       9,441,280
+             ReLU-15                 [-1, 4096]               0
+          Dropout-16                 [-1, 4096]               0
+           Linear-17                 [-1, 4096]      16,781,312
+             ReLU-18                 [-1, 4096]               0
+          Dropout-19                 [-1, 4096]               0
+           Linear-20                   [-1, 10]          40,970
+================================================================
+Total params: 28,513,994
+Trainable params: 28,513,994
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 2.38
+Params size (MB): 108.77
+Estimated Total Size (MB): 111.16
+----------------------------------------------------------------
