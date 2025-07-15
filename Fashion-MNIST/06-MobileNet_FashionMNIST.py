@@ -26,6 +26,11 @@ from torchvision import datasets, transforms
 plt.style.use("seaborn-v0_8")
 sns.set_theme()
 
+# Constantes para limitar a acurácia
+# MOBILENET_TARGET_ACCURACY = 0.7
+# MOBILENET_TARGET_ACCURACY = 0.8
+MOBILENET_TARGET_ACCURACY = 0.9
+
 # Constante para inicialização do gerador de números aleatórios
 SEED = 158763
 
@@ -184,7 +189,7 @@ class EarlyStopping:
 
 modelo = MobileNet().to(dispositivo)
 criterio = nn.CrossEntropyLoss()
-otimizador = optim.Adam(modelo.parameters(), lr=0.0001)
+otimizador = optim.Adam(modelo.parameters(), lr=0.00001)
 scaler = GradScaler(dispositivo)
 
 scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(otimizador, 'min', patience=5, factor=0.1)
@@ -224,7 +229,7 @@ tempos_treino = []
 potencias_treino = []
 
 # Função para treinar e validar um modelo
-def treinar_e_validar(modelo, carregador_treino, carregador_validacao, criterio, otimizador, epocas, i):
+def treinar_e_validar(modelo, carregador_treino, carregador_validacao, criterio, otimizador, epocas, i, target_accuracy=None):
     early_stopping = EarlyStopping(patience=5, min_delta=0.001)
     
     modelo.train()
@@ -284,6 +289,10 @@ def treinar_e_validar(modelo, carregador_treino, carregador_validacao, criterio,
             print(f"Parada antecipada (Early stopping) na época {epoca + 1}")
             break
 
+        if target_accuracy is not None and acuracia_validacao >= target_accuracy:
+            print(f"Parada antecipada: Acurácia de validação ({acuracia_validacao:.4f}) atingiu ou excedeu a acurácia alvo da ResNet ({target_accuracy:.4f}) na época {epoca + 1}")
+            break
+
         memoria_usada_treino, uso_gpu_treino, consumo_energia_treino = monitorar_gpu() # monitoramento por época
         potencias_treino.append(consumo_energia_treino)
            
@@ -313,7 +322,7 @@ tracker_train.start()
 
 def criar_modelo():
     modelo = MobileNet().to(dispositivo)
-    otimizador = optim.Adam(modelo.parameters(), lr=0.0001)
+    otimizador = optim.Adam(modelo.parameters(), lr=0.00001)
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(otimizador, 'min', patience=5, factor=0.1)
     criterio = nn.CrossEntropyLoss()
 
@@ -336,7 +345,7 @@ for i in range(numero_modelos):
     flops, parametros = profile(modelo, inputs=(entrada,), verbose=False)
 
     perda_treino, acuracia_treino, perda_validacao, acuracia_validacao, tempo_treino, consumo_energia = (
-        treinar_e_validar(modelo, carregador_treino, carregador_validacao, criterio, otimizador, maximo_epocas, i))
+        treinar_e_validar(modelo, carregador_treino, carregador_validacao, criterio, otimizador, maximo_epocas, i, target_accuracy=MOBILENET_TARGET_ACCURACY))
     
 
     # Para o rastreador e armazena as emissões  ----------------------------

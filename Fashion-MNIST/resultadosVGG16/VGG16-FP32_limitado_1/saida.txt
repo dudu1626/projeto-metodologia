@@ -1,0 +1,180 @@
+Iniciando treinamento...
+______________________________________________________________________________________________________
+Treinando modelo 1/10
+Época 1, Perda Treino: 0.7024, Acurácia Treino: 0.7649
+Época 1, Perda Validação: 0.3518, Acurácia Validação: 0.8678
+Parada antecipada: Acurácia de validação (0.8678) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 1: Média Perda Treino: 0.7024, Média Acurácia Treino: 0.7649, Média Perda Validação: 0.3518, Média Acurácia Validação: 0.8678
+Tempo médio de treino: 54.724405
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019144429319729487 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 2/10
+Época 1, Perda Treino: 0.7150, Acurácia Treino: 0.7614
+Época 1, Perda Validação: 0.3578, Acurácia Validação: 0.8724
+Parada antecipada: Acurácia de validação (0.8724) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 2: Média Perda Treino: 0.7087, Média Acurácia Treino: 0.7631, Média Perda Validação: 0.3548, Média Acurácia Validação: 0.8701
+Tempo médio de treino: 54.6857535
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019116162654897155 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 3/10
+Época 1, Perda Treino: 0.7163, Acurácia Treino: 0.7593
+Época 1, Perda Validação: 0.3550, Acurácia Validação: 0.8719
+Parada antecipada: Acurácia de validação (0.8719) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 3: Média Perda Treino: 0.7113, Média Acurácia Treino: 0.7619, Média Perda Validação: 0.3549, Média Acurácia Validação: 0.8707
+Tempo médio de treino: 54.66562066666666
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019138261097620263 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 4/10
+Época 1, Perda Treino: 0.7290, Acurácia Treino: 0.7514
+Época 1, Perda Validação: 0.3728, Acurácia Validação: 0.8640
+Parada antecipada: Acurácia de validação (0.8640) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 4: Média Perda Treino: 0.7157, Média Acurácia Treino: 0.7593, Média Perda Validação: 0.3594, Média Acurácia Validação: 0.8690
+Tempo médio de treino: 54.65265875
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0001916168673649944 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 5/10
+Época 1, Perda Treino: 0.7311, Acurácia Treino: 0.7541
+Época 1, Perda Validação: 0.3572, Acurácia Validação: 0.8708
+Parada antecipada: Acurácia de validação (0.8708) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 5: Média Perda Treino: 0.7188, Média Acurácia Treino: 0.7582, Média Perda Validação: 0.3589, Média Acurácia Validação: 0.8694
+Tempo médio de treino: 54.6497974
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019159069949185224 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 6/10
+Época 1, Perda Treino: 0.7083, Acurácia Treino: 0.7611
+Época 1, Perda Validação: 0.3628, Acurácia Validação: 0.8696
+Parada antecipada: Acurácia de validação (0.8696) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 6: Média Perda Treino: 0.7170, Média Acurácia Treino: 0.7587, Média Perda Validação: 0.3596, Média Acurácia Validação: 0.8694
+Tempo médio de treino: 54.64390649999999
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.0001917636539222131 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 7/10
+Época 1, Perda Treino: 0.7288, Acurácia Treino: 0.7562
+Época 1, Perda Validação: 0.3801, Acurácia Validação: 0.8615
+Parada antecipada: Acurácia de validação (0.8615) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 7: Média Perda Treino: 0.7187, Média Acurácia Treino: 0.7583, Média Perda Validação: 0.3625, Média Acurácia Validação: 0.8683
+Tempo médio de treino: 54.64411571428571
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019170315103747226 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 8/10
+Época 1, Perda Treino: 0.7329, Acurácia Treino: 0.7541
+Época 1, Perda Validação: 0.3673, Acurácia Validação: 0.8653
+Parada antecipada: Acurácia de validação (0.8653) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 8: Média Perda Treino: 0.7205, Média Acurácia Treino: 0.7578, Média Perda Validação: 0.3631, Média Acurácia Validação: 0.8679
+Tempo médio de treino: 54.641505375
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019173163261865643 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 9/10
+Época 1, Perda Treino: 0.7056, Acurácia Treino: 0.7607
+Época 1, Perda Validação: 0.3557, Acurácia Validação: 0.8703
+Parada antecipada: Acurácia de validação (0.8703) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 9: Média Perda Treino: 0.7188, Média Acurácia Treino: 0.7581, Média Perda Validação: 0.3623, Média Acurácia Validação: 0.8682
+Tempo médio de treino: 54.637963222222226
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019163466630750395 kg CO₂
+______________________________________________________________________________________________________
+Treinando modelo 10/10
+Época 1, Perda Treino: 0.7254, Acurácia Treino: 0.7566
+Época 1, Perda Validação: 0.3578, Acurácia Validação: 0.8676
+Parada antecipada: Acurácia de validação (0.8676) atingiu ou excedeu a acurácia alvo da VGG16 (0.7000) na época 1
+Modelo 10: Média Perda Treino: 0.7195, Média Acurácia Treino: 0.7580, Média Perda Validação: 0.3618, Média Acurácia Validação: 0.8681
+Tempo médio de treino: 54.6402479
+FLOPs: 224850944.0
+Parâmetros: 33645514.0
+Consumo médio de energia: 0.0 W
+Emissões médias: 0.00019158660780235558 kg CO₂
+************************************************************************************************
+O melhor modelo é o Modelo_3 com a maior média de acurácia de validação: 0.8707
+************************************************************************************************
+Tempo Médio de Treino: 54.6402479 segundos
+Consumo Médio de Energia: nan W
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1           [-1, 64, 28, 28]             640
+       BatchNorm2d-2           [-1, 64, 28, 28]             128
+              ReLU-3           [-1, 64, 28, 28]               0
+            Conv2d-4           [-1, 64, 28, 28]          36,928
+       BatchNorm2d-5           [-1, 64, 28, 28]             128
+              ReLU-6           [-1, 64, 28, 28]               0
+         MaxPool2d-7           [-1, 64, 14, 14]               0
+            Conv2d-8          [-1, 128, 14, 14]          73,856
+       BatchNorm2d-9          [-1, 128, 14, 14]             256
+             ReLU-10          [-1, 128, 14, 14]               0
+           Conv2d-11          [-1, 128, 14, 14]         147,584
+      BatchNorm2d-12          [-1, 128, 14, 14]             256
+             ReLU-13          [-1, 128, 14, 14]               0
+        MaxPool2d-14            [-1, 128, 7, 7]               0
+           Conv2d-15            [-1, 256, 7, 7]         295,168
+      BatchNorm2d-16            [-1, 256, 7, 7]             512
+             ReLU-17            [-1, 256, 7, 7]               0
+           Conv2d-18            [-1, 256, 7, 7]         590,080
+      BatchNorm2d-19            [-1, 256, 7, 7]             512
+             ReLU-20            [-1, 256, 7, 7]               0
+           Conv2d-21            [-1, 256, 7, 7]         590,080
+      BatchNorm2d-22            [-1, 256, 7, 7]             512
+             ReLU-23            [-1, 256, 7, 7]               0
+        MaxPool2d-24            [-1, 256, 3, 3]               0
+           Conv2d-25            [-1, 512, 3, 3]       1,180,160
+      BatchNorm2d-26            [-1, 512, 3, 3]           1,024
+             ReLU-27            [-1, 512, 3, 3]               0
+           Conv2d-28            [-1, 512, 3, 3]       2,359,808
+      BatchNorm2d-29            [-1, 512, 3, 3]           1,024
+             ReLU-30            [-1, 512, 3, 3]               0
+           Conv2d-31            [-1, 512, 3, 3]       2,359,808
+      BatchNorm2d-32            [-1, 512, 3, 3]           1,024
+             ReLU-33            [-1, 512, 3, 3]               0
+        MaxPool2d-34            [-1, 512, 1, 1]               0
+           Conv2d-35            [-1, 512, 1, 1]       2,359,808
+      BatchNorm2d-36            [-1, 512, 1, 1]           1,024
+             ReLU-37            [-1, 512, 1, 1]               0
+           Conv2d-38            [-1, 512, 1, 1]       2,359,808
+      BatchNorm2d-39            [-1, 512, 1, 1]           1,024
+             ReLU-40            [-1, 512, 1, 1]               0
+           Conv2d-41            [-1, 512, 1, 1]       2,359,808
+      BatchNorm2d-42            [-1, 512, 1, 1]           1,024
+             ReLU-43            [-1, 512, 1, 1]               0
+AdaptiveAvgPool2d-44            [-1, 512, 1, 1]               0
+           Linear-45                 [-1, 4096]       2,101,248
+             ReLU-46                 [-1, 4096]               0
+          Dropout-47                 [-1, 4096]               0
+           Linear-48                 [-1, 4096]      16,781,312
+             ReLU-49                 [-1, 4096]               0
+          Dropout-50                 [-1, 4096]               0
+           Linear-51                   [-1, 10]          40,970
+================================================================
+Total params: 33,645,514
+Trainable params: 33,645,514
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 5.01
+Params size (MB): 128.35
+Estimated Total Size (MB): 133.37
+----------------------------------------------------------------
